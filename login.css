@@ -1,0 +1,19 @@
+body {
+    background-image: url("https://wallpaperaccess.com/full/7269361.jpg");
+}
+
+#frm {
+
+    width: 25%;
+    border-radius: 10px;
+    margin: 200px auto;
+    background: transparent;
+    padding: 50px;
+}
+
+#btn {
+    color: #fff;
+    background: #337ab7;
+    padding: 7px;
+    margin-left: 70%;
+}
